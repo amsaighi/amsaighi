@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m Amin SAIGHI
 - 🌱 I’m currently learning : Mastering software architecture
-- 💬 Ask me about ... ( really I don't know, feel free to ask anythings :p )
-- 📫 How to reach me: Twitter [[amSaighi]](https://twitter.com/amSaighi) 
-- ⚡ Fun fact: I live in Algeria(DZ)
+- 💬 I like to code because it is usable art, I like to learn and talking about software engineering, and honestly building software is depending on my mood.
+- 📫 Follow on Twitter : https://twitter.com/amSaighi 
+- ⚡ Algeria(DZ)
